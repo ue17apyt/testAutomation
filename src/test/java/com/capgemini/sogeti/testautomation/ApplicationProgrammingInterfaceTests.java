@@ -126,8 +126,8 @@ public class ApplicationProgrammingInterfaceTests {
             assertFalse(targetList.isEmpty());
             this.logger.info(
                     "The district \"{}\" corresponds to the country \"{}\" and the post code \"{}\"",
-                    countryPostCodeTuple.getV3(), countryPostCodeTuple.getV1(), countryPostCodeTuple.getV2())
-            ;
+                    countryPostCodeTuple.getV3(), countryPostCodeTuple.getV1(), countryPostCodeTuple.getV2()
+            );
 
         }
 
